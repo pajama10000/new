@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Minecraftia";
-  src: url("../assets/Minecratia.ttf");
+  font-family: "Adventurer";
+  src: url("../assets/Adventurer.ttf");
 }
 
 body {
@@ -109,7 +109,7 @@ body {
     color: white;
     cursor: pointer;
     display: block;
-    font-family: 'Minecraftia', serif;
+    font-family: 'Adventurer', serif;
     font-size: clamp(3rem, 8vw, 8rem);
     padding: clamp(0.25rem, 0.5vw, 1rem) 0rem;
     text-decoration: none;
