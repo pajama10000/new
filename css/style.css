@@ -106,7 +106,7 @@ body {
   }
   
   .menu-item {
-    color: white;
+    color: #1a6985;
     cursor: pointer;
     display: block;
     font-family: 'Adventurer', serif;
@@ -115,6 +115,12 @@ body {
     text-decoration: none;
     transition: opacity 400ms ease;
   }
+  p {
+    font-family: 'Adventurer', serif;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 10vh;
+}
 
   #menu-items:hover > a.menu-item:hover::after {
     content: " >";
